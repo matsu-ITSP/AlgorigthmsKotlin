@@ -1,0 +1,35 @@
+Count = 100, Weight = 1000
+Dp Result: value = 393700, time = 114ms.
+Greedy Result: value = 7727, time = 2ms.
+
+Count = 100, Weight = 2000
+Dp Result: value = 3768000, time = 222ms.
+Greedy Result: value = 39564, time = 0ms.
+
+Count = 100, Weight = 4000
+Dp Result: value = 5960000, time = 670ms.
+Greedy Result: value = 64690, time = 0ms.
+
+Count = 200, Weight = 1000
+Dp Result: value = 848000, time = 45ms.
+Greedy Result: value = 76320, time = 0ms.
+
+Count = 200, Weight = 2000
+Dp Result: value = 304000, time = 140ms.
+Greedy Result: value = 22804, time = 0ms.
+
+Count = 200, Weight = 4000
+Dp Result: value = 1224800, time = 609ms.
+Greedy Result: value = 63560, time = 0ms.
+
+Count = 400, Weight = 1000
+Dp Result: value = 245000, time = 27ms.
+Greedy Result: value = 30625, time = 0ms.
+
+Count = 400, Weight = 2000
+Dp Result: value = 934000, time = 142ms.
+Greedy Result: value = 51846, time = 0ms.
+
+Count = 400, Weight = 4000
+Dp Result: value = 2318000, time = 694ms.
+Greedy Result: value = 566500, time = 0ms.
